@@ -1,0 +1,9 @@
+2019-11-26 00:12:40,160 - scrape_financial_times - INFO - <ipython-input-40-66fa0b11a706> : 14 - Started Scrapping the data
+2019-11-26 00:12:44,239 - scrape_financial_times - INFO - <ipython-input-40-66fa0b11a706> : 53 - Scrapping Completed for https://www.ft.com/oil
+2019-11-26 00:12:44,258 - scrape_financial_times - INFO - <ipython-input-40-66fa0b11a706> : 57 - FinancialTimes:completed Successfully
+2019-11-26 00:12:44,268 - scrape_oilprice - INFO - <ipython-input-40-66fa0b11a706> : 64 - Started Scrapping the data
+2019-11-26 00:12:48,194 - scrape_oilprice - INFO - <ipython-input-40-66fa0b11a706> : 96 - Scrapping Completed for https://oilprice.com/Energy/Crude-Oil/
+2019-11-26 00:12:48,216 - scrape_oilprice - INFO - <ipython-input-40-66fa0b11a706> : 103 - OilPrice:completed Successfully
+2019-11-26 00:12:48,223 - scrape_moneycontrol - INFO - <ipython-input-40-66fa0b11a706> : 110 - Started Scrapping the data
+2019-11-26 00:12:52,340 - scrape_moneycontrol - INFO - <ipython-input-40-66fa0b11a706> : 145 - Scrapping Completed for https://www.moneycontrol.com/news/commodities-news-94.html/
+2019-11-26 00:12:52,384 - scrape_moneycontrol - INFO - <ipython-input-40-66fa0b11a706> : 155 - MoneyControl:completed Successfully
